@@ -1,0 +1,22 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "bitset": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "functional": "cpp",
+        "utility": "cpp",
+        "queue": "cpp",
+        "stack": "cpp"
+    }
+}
