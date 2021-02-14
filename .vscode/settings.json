@@ -17,6 +17,8 @@
         "functional": "cpp",
         "utility": "cpp",
         "queue": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "valarray": "cpp",
+        "tuple": "cpp"
     }
 }

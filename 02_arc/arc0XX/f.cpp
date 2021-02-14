@@ -33,6 +33,8 @@ const ll LINF = 1001002003004005006ll;
 const int INF = 1001001001;
 #define dame { puts("-1"); return 0;}
 #define yn {puts("Yes");}else{puts("No");}
+#include <atcoder/all>
+using namespace atcoder;
 const int MX = 200005;
 
 

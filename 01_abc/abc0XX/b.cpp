@@ -35,7 +35,6 @@ const int INF = 1001001001;
 #define yn {puts("Yes");}else{puts("No");}
 const int MX = 200005;
 
-
 int main() {
   
   return 0;
